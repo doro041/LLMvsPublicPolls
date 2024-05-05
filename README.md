@@ -46,7 +46,7 @@ Contributions to this project are welcome. You can contribute by:
 
 ## License
 
-This project is licensed under the  License
+This project is licensed under the GPL-3.0 license
 
 ## Citation
 
