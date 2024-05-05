@@ -1,0 +1,721 @@
+location,age_group,gender,education_level,question_number,question_text,response
+British Columbia,16-25,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,16-25,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,16-25,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,16-25,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,16-25,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,16-25,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,16-25,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,16-25,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,16-25,Female,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,16-25,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,16-25,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,16-25,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,16-25,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,16-25,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,16-25,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,16-25,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,16-25,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,16-25,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,16-25,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,16-25,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,16-25,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,16-25,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,16-25,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,16-25,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,16-25,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,16-25,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,16-25,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,16-25,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,16-25,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,16-25,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,16-25,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,16-25,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,16-25,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,16-25,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,16-25,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,16-25,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,16-25,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,16-25,Non-binary,,Q8,Political protests are disruptive and should be limited.,Strongly disagree
+British Columbia,16-25,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,16-25,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,16-25,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,16-25,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,16-25,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,16-25,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,16-25,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,26-35,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,26-35,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,26-35,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,26-35,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,26-35,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,26-35,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,26-35,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,26-35,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,26-35,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,26-35,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,26-35,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,26-35,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,26-35,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,26-35,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,26-35,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,26-35,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,26-35,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,26-35,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,26-35,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+British Columbia,26-35,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,26-35,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,26-35,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,26-35,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,26-35,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,26-35,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,26-35,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,26-35,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,26-35,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,26-35,Male,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,26-35,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,26-35,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,26-35,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,26-35,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,26-35,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,26-35,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,26-35,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,26-35,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,26-35,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,26-35,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,26-35,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,26-35,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,26-35,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,26-35,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,26-35,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,26-35,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,36-45,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,36-45,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,36-45,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,36-45,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,36-45,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,36-45,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,36-45,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,36-45,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,36-45,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,36-45,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,36-45,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,36-45,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,36-45,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,36-45,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,36-45,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,36-45,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,36-45,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,36-45,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,36-45,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,36-45,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,36-45,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,36-45,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,36-45,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,36-45,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,36-45,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+British Columbia,36-45,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,36-45,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,36-45,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,36-45,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,36-45,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,36-45,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,36-45,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,36-45,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,36-45,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,36-45,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,36-45,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,36-45,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,36-45,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,36-45,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,36-45,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,36-45,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,36-45,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,36-45,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,36-45,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,36-45,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,46-55,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,46-55,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,46-55,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,46-55,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,46-55,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,46-55,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,46-55,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,46-55,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,46-55,Female,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,46-55,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,46-55,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,46-55,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,46-55,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,46-55,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,46-55,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,46-55,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,46-55,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,46-55,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,46-55,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,46-55,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,46-55,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,46-55,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,46-55,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,46-55,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,46-55,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,46-55,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,46-55,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,46-55,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,46-55,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,46-55,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,46-55,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,46-55,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,46-55,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,46-55,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,46-55,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,46-55,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,46-55,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,46-55,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,46-55,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,46-55,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,46-55,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,46-55,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,46-55,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,46-55,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,46-55,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,56-65,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a very strong feminist
+British Columbia,56-65,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+British Columbia,56-65,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,56-65,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+British Columbia,56-65,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,56-65,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,56-65,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,56-65,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,56-65,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,56-65,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,56-65,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,56-65,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,56-65,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,56-65,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,56-65,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,56-65,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,56-65,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,56-65,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,56-65,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,56-65,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,56-65,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,56-65,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,56-65,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,56-65,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,56-65,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat agree
+British Columbia,56-65,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,56-65,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,56-65,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,56-65,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+British Columbia,56-65,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat disagree
+British Columbia,56-65,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,56-65,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,56-65,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,56-65,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,56-65,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,56-65,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,56-65,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,56-65,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,56-65,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,56-65,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,56-65,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,56-65,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,56-65,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,56-65,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,56-65,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,66-75,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a very strong feminist
+British Columbia,66-75,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+British Columbia,66-75,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,66-75,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+British Columbia,66-75,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,66-75,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,66-75,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,66-75,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,66-75,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,66-75,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,66-75,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+British Columbia,66-75,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,66-75,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,66-75,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,66-75,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,66-75,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,66-75,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,66-75,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,66-75,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,66-75,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,66-75,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,66-75,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,66-75,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,66-75,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,66-75,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+British Columbia,66-75,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,66-75,Male,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,66-75,Male,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,66-75,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+British Columbia,66-75,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat agree
+British Columbia,66-75,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,66-75,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,66-75,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,66-75,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,66-75,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,66-75,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,66-75,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,66-75,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,66-75,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,66-75,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,66-75,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,66-75,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,66-75,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,66-75,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,66-75,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,76-85,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,76-85,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,76-85,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,76-85,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,76-85,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,76-85,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,76-85,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,76-85,Female,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+British Columbia,76-85,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+British Columbia,76-85,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,76-85,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,76-85,Female,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,76-85,Female,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,76-85,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,76-85,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,76-85,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,76-85,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,76-85,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,76-85,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,76-85,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,76-85,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,76-85,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,76-85,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,76-85,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+British Columbia,76-85,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+British Columbia,76-85,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,76-85,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,76-85,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,76-85,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,76-85,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat agree
+British Columbia,76-85,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+British Columbia,76-85,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,76-85,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,76-85,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+British Columbia,76-85,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,76-85,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+British Columbia,76-85,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,76-85,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+British Columbia,76-85,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,76-85,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,76-85,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+British Columbia,76-85,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+British Columbia,76-85,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+British Columbia,76-85,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+British Columbia,76-85,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,86-95,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,86-95,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,86-95,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,86-95,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,86-95,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,86-95,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,86-95,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,86-95,Female,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+British Columbia,86-95,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+British Columbia,86-95,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+British Columbia,86-95,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,86-95,Female,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,86-95,Female,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,86-95,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,86-95,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+British Columbia,86-95,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,86-95,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,86-95,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,86-95,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,86-95,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,86-95,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,86-95,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,86-95,Male,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+British Columbia,86-95,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+British Columbia,86-95,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly agree
+British Columbia,86-95,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,86-95,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,86-95,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,86-95,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+British Columbia,86-95,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat disagree
+British Columbia,86-95,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+British Columbia,86-95,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+British Columbia,86-95,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+British Columbia,86-95,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+British Columbia,86-95,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+British Columbia,86-95,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+British Columbia,86-95,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+British Columbia,86-95,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+British Columbia,86-95,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+British Columbia,86-95,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+British Columbia,86-95,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+British Columbia,86-95,Non-binary,,Q12,People like me don't have any say about what the government does.,Strongly agree
+British Columbia,86-95,Non-binary,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+British Columbia,86-95,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+British Columbia,86-95,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,16-25,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,16-25,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,16-25,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,16-25,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,16-25,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,16-25,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,16-25,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,16-25,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,16-25,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,16-25,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,16-25,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,16-25,Female,,Q12,People like me don't have any say about what the government does.,Somewhat disagree
+Quebec,16-25,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,16-25,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,16-25,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,16-25,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,16-25,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,16-25,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,16-25,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,16-25,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,16-25,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,16-25,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,16-25,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,16-25,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,16-25,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,16-25,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,16-25,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,16-25,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+Quebec,16-25,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,16-25,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,16-25,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,16-25,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,16-25,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,16-25,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,16-25,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,16-25,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,16-25,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,16-25,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,16-25,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,16-25,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,16-25,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,16-25,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,16-25,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,16-25,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,16-25,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,26-35,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,26-35,Female,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,26-35,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,26-35,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,26-35,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,26-35,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,26-35,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,26-35,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,26-35,Female,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,26-35,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,26-35,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,26-35,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,26-35,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,26-35,Female,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,26-35,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,26-35,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,26-35,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,26-35,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,26-35,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,26-35,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,26-35,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,26-35,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,26-35,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,26-35,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly agree
+Quebec,26-35,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,26-35,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,26-35,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,26-35,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+Quebec,26-35,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,26-35,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat agree
+Quebec,26-35,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,26-35,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,26-35,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,26-35,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,26-35,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,26-35,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,26-35,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,26-35,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,26-35,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,26-35,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,26-35,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,26-35,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,26-35,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,26-35,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,26-35,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,36-45,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,36-45,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,36-45,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,36-45,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,36-45,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,36-45,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,36-45,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,36-45,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,36-45,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,36-45,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,36-45,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,36-45,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,36-45,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,36-45,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,36-45,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,36-45,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,36-45,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,36-45,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,36-45,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,36-45,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,36-45,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,36-45,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,36-45,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,36-45,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly agree
+Quebec,36-45,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,36-45,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,36-45,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,36-45,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+Quebec,36-45,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,36-45,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,36-45,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,36-45,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,36-45,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,36-45,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,36-45,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,36-45,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,36-45,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,36-45,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,36-45,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,36-45,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,36-45,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,36-45,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,36-45,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,36-45,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,36-45,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,46-55,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,46-55,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,46-55,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,46-55,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,46-55,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,46-55,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,46-55,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,46-55,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,46-55,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,46-55,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,46-55,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,46-55,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,46-55,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,46-55,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,46-55,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,46-55,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,46-55,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,46-55,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,46-55,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,46-55,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,46-55,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,46-55,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,46-55,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,46-55,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly agree
+Quebec,46-55,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,46-55,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,46-55,Male,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,46-55,Male,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,46-55,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,46-55,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,46-55,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,46-55,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,46-55,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,46-55,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,46-55,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,46-55,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,46-55,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,46-55,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,46-55,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,46-55,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,46-55,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,46-55,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,46-55,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,46-55,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,46-55,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,56-65,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a very strong feminist
+Quebec,56-65,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,56-65,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,56-65,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,56-65,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,56-65,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,56-65,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,56-65,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,56-65,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,56-65,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,56-65,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,56-65,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,56-65,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,56-65,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,56-65,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,56-65,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,56-65,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,56-65,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,56-65,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,56-65,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,56-65,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,56-65,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat agree
+Quebec,56-65,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,56-65,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly agree
+Quebec,56-65,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,56-65,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,56-65,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,56-65,Male,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,56-65,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,56-65,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat disagree
+Quebec,56-65,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,56-65,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,56-65,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,56-65,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,56-65,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,56-65,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,56-65,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,56-65,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,56-65,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,56-65,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,56-65,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,56-65,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,56-65,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,56-65,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,56-65,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,66-75,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a very strong feminist
+Quebec,66-75,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,66-75,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,66-75,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,66-75,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,66-75,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,66-75,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,66-75,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,66-75,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+Quebec,66-75,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,66-75,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,66-75,Female,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,66-75,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,66-75,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,66-75,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,66-75,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,66-75,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,66-75,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,66-75,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,66-75,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,66-75,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,66-75,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,66-75,Male,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,66-75,Male,,Q9,There should be restrictions on religious symbols in public life.,Strongly agree
+Quebec,66-75,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,66-75,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,66-75,Male,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,66-75,Male,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,66-75,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,66-75,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat agree
+Quebec,66-75,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,A strong feminist
+Quebec,66-75,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,66-75,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,66-75,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,More immigrants
+Quebec,66-75,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,66-75,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,66-75,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,66-75,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat disagree
+Quebec,66-75,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,66-75,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,66-75,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly disagree
+Quebec,66-75,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,66-75,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,66-75,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Strongly disagree
+Quebec,66-75,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,76-85,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,76-85,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,76-85,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,76-85,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,76-85,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,76-85,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,76-85,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat agree
+Quebec,76-85,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,76-85,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+Quebec,76-85,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,76-85,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,76-85,Female,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,76-85,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,76-85,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,76-85,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,76-85,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,76-85,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,76-85,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,76-85,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,76-85,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,76-85,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,76-85,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,76-85,Male,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+Quebec,76-85,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,76-85,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,76-85,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,76-85,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,76-85,Male,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,76-85,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat agree
+Quebec,76-85,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat disagree
+Quebec,76-85,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,76-85,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,76-85,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,76-85,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,76-85,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,76-85,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,76-85,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,76-85,Non-binary,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,76-85,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Strongly disagree
+Quebec,76-85,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,76-85,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,76-85,Non-binary,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,76-85,Non-binary,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+Quebec,76-85,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,76-85,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,86-95,Female,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,86-95,Female,,Q2,People should be able to say what they think even if it offends some people.,Somewhat agree
+Quebec,86-95,Female,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,86-95,Female,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,About the same number of immigrants as now
+Quebec,86-95,Female,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,86-95,Female,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat disagree
+Quebec,86-95,Female,,Q7,Elections make no difference to what happens in this country.,Somewhat agree
+Quebec,86-95,Female,,Q8,Political protests are disruptive and should be limited.,Somewhat agree
+Quebec,86-95,Female,,Q9,There should be restrictions on religious symbols in public life.,Somewhat disagree
+Quebec,86-95,Female,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+Quebec,86-95,Female,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Somewhat agree
+Quebec,86-95,Female,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,86-95,Female,,Q13,My ethnicity is an important part of my identity.,Strongly agree
+Quebec,86-95,Female,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,86-95,Female,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
+Quebec,86-95,Male,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,86-95,Male,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,86-95,Male,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,86-95,Male,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,86-95,Male,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,86-95,Male,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,86-95,Male,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,86-95,Male,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+Quebec,86-95,Male,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,86-95,Male,,Q10,The government should leave it entirely to the private sector to create jobs.,Somewhat disagree
+Quebec,86-95,Male,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,86-95,Male,,Q12,People like me don't have any say about what the government does.,Strongly agree
+Quebec,86-95,Male,,Q13,My ethnicity is an important part of my identity.,Somewhat agree
+Quebec,86-95,Male,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,86-95,Male,,Q15,The best way to protect women's interests is to have more women in Parliament.,Somewhat agree
+Quebec,86-95,Non-binary,,Q1,Do you consider yourself to be a strong feminist  not a very strong feminist  or not a feminist at all?,Not a feminist at all
+Quebec,86-95,Non-binary,,Q2,People should be able to say what they think even if it offends some people.,Strongly agree
+Quebec,86-95,Non-binary,,Q3,Society would be better off if fewer women worked outside the home.,Strongly disagree
+Quebec,86-95,Non-binary,,Q4,Do you think Canada should admit more immigrants  less immigrants  or about the same number of immigrants as now?,Fewer immigrants
+Quebec,86-95,Non-binary,,Q5,Politicians are willing to lie to get elected.,Strongly agree
+Quebec,86-95,Non-binary,,Q6,I’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.,Somewhat agree
+Quebec,86-95,Non-binary,,Q7,Elections make no difference to what happens in this country.,Somewhat disagree
+Quebec,86-95,Non-binary,,Q8,Political protests are disruptive and should be limited.,Strongly agree
+Quebec,86-95,Non-binary,,Q9,There should be restrictions on religious symbols in public life.,Somewhat agree
+Quebec,86-95,Non-binary,,Q10,The government should leave it entirely to the private sector to create jobs.,Strongly disagree
+Quebec,86-95,Non-binary,,Q11,Newer lifestyles are contributing to the breakdown of our society.,Strongly agree
+Quebec,86-95,Non-binary,,Q12,People like me don't have any say about what the government does.,Somewhat agree
+Quebec,86-95,Non-binary,,Q13,My ethnicity is an important part of my identity.,Strongly disagree
+Quebec,86-95,Non-binary,,Q14,Immigrants take jobs away from other Canadians.,Somewhat disagree
+Quebec,86-95,Non-binary,,Q15,The best way to protect women's interests is to have more women in Parliament.,Strongly agree
