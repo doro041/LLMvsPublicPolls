@@ -51,5 +51,5 @@ This project is licensed under the GPL-3.0 license
 ## Citation
 
 If you use the data or findings from this project, please cite:
-Khai Tran, Sev Geraskin, Doroteya Stoyanova, Jord Nguyen, Dorcas Nyamwaya
+Khai Tran, Sev Geraskin, Doroteya Stoyanova, Jord Nguyen
 Assessing Algorithmic Bias in Large Language Models' Predictions of Public Opinion Across Demographics
