@@ -4,7 +4,7 @@ This repository hosts the code and data for the paper "Assessing Algorithmic Bia
 
 ## Project Overview
 
-This project, "Assessing Algorithmic Bias in Large Language Models' Predictions of Public Opinion Across Demographics," is developed by Khai Tran, Sev Geraskin, Doroteya Stoyanova, Jord Nguyen, and Dorcas Nyamwaya. It was created during the Apart Research AI x Democracy Research Hackathon. More information about the hackathon can be found [here](https://www.apartresearch.com/post/join-ai-democracy).
+This project, "Assessing Algorithmic Bias in Large Language Models' Predictions of Public Opinion Across Demographics," is developed by Khai Tran, Sev Geraskin, Doroteya Stoyanova and Jord Nguyen. It was created during the Apart Research AI x Democracy Research Hackathon. More information about the hackathon can be found [here](https://www.apartresearch.com/post/join-ai-democracy).
 
 ### Threat Scenario
 
